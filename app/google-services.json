@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472241395389",
+    "firebase_url": "https://dodoapp-276020.firebaseio.com",
+    "project_id": "dodoapp-276020",
+    "storage_bucket": "dodoapp-276020.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472241395389:android:94020051f7c38de53849d4",
+        "android_client_info": {
+          "package_name": "com.dodomaker.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472241395389-83hvflpk8hhba3n7s1dv162mvvp80nfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4KSgM5sa7yVraYpSKe-CE_6V3zj9mg0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472241395389-83hvflpk8hhba3n7s1dv162mvvp80nfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,2 @@
+include ':app', ':k4l-video-trimmer', ':sticker', 'FFmpegAndroid'
+rootProject.name='Dodo'
